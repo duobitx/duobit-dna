@@ -1,7 +1,6 @@
 ---
 title: Brand building
-prev_section: courses-and-event-production.html 
-next_section: 
+prev_section: courses-and-event-production.html
 ---
 
 Brand building
