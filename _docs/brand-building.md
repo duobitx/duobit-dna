@@ -1,7 +1,7 @@
 ---
 title: Brand building
 prev_section: courses-and-event-production.html 
-next_section: how-to-copy.html
+next_section: 
 ---
 
 Brand building
