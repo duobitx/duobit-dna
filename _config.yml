@@ -7,5 +7,8 @@ defaults:
 collections:
   docs:
     output: true
-company_name: "Crisp"
-google_analytics_tracker_code: "UA-7074695-4"
+company_name: "DuoBit"
+# TODO Use LinkedIn company page once it's ready
+company_website: https://github.com/duobitx
+# TODO Configure Google Analytics or any other tracking mechanism
+google_analytics_tracker_code: "???"

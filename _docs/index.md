@@ -1,14 +1,14 @@
 ---
-title: Crisp DNA
+title: DuoBit DNA
 next_section: what-is-crisp.html
 ---
 
 What is this?
 =============
 
-This site is an [open-source](http://en.wikipedia.org/wiki/Open_source) site describing how Crisp works and why.
+This site is an [open-source](http://en.wikipedia.org/wiki/Open_source) site describing how {{ site.company_name }} works and why.
 
-[Crisp](https://www.crisp.se) is a consulting company based in Stockholm, Sweden. But we aren't a very typical consulting company. For example:
+[{{ site.company_name }}]({{ site.company_website }}) is a consulting company based in Warsaw, Poland. But we aren't a very typical consulting company. For example:
 
 -   None of the ~30 consultants are actually employed by {{ site.company_name }}.
 -   We have no managers, not even a CEO. Instead we rely on self-organization and transparency. Almost everything is bottom-up, and [anyone can drive any decision](decisions.html).
