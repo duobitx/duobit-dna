@@ -8,6 +8,7 @@ collections:
   docs:
     output: true
 company_name: "DuoBit"
+company_member: "DuoBiter"
 # TODO Use LinkedIn company page once it's ready
 company_website: https://github.com/duobitx
 # TODO Configure Google Analytics or any other tracking mechanism
