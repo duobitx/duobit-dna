@@ -64,6 +64,19 @@ bundle exec jekyll serve
 Or if you are lazy you can use the `run` script (which just does `jekyll serve`).
 
 That's it, your local copy of the DuoBit DNA site should be up and running on
-[http://localhost:4000](http://localhost:4000)
+[http://localhost:4000](http://localhost:4000).
 
 Every time you edit a source doc (under `_docs`) it will update the site automatically.
+
+## 5. Run the site locally with Jekyll in Docker
+
+```
+docker run -it --rm --name duobit-dna-server \
+  --volume="$PWD:/srv/jekyll" \
+  --publish 4000:4000 \
+  jekyll/jekyll:3.8@sha256:9521c8aae4739fcbc7137ead19f91841b833d671542f13e91ca40280e88d6e34 \
+  jekyll serve --watch --drafts
+```
+
+That's it, your local copy of the DuoBit DNA site should be up and running on
+[http://localhost:4000](http://localhost:4000).
