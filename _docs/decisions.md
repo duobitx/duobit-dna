@@ -4,8 +4,8 @@ prev_section: economic-model.html
 next_section: recruiting.html
 ---
 
-How we make decisions
-=====================
+How we make decisions?
+======================
 
 How do we make decisions in a decentralized organization with no managers?
 
@@ -14,9 +14,9 @@ Note – for allocation of consultants to client engagements we have a specific 
 Why don’t we have a well defined decision-making process?
 ---------------------------------------------------------
 
-We make lots of decisions all the time. Which type of coffee machine to buy? Should our internal fees be raised? Where & when is our next Crisp unconference? Which partners should we invite?
+We make lots of decisions all the time. Which type of coffee machine to buy? Should our internal fees be raised? Where and when is our next {{ site.company_name }} unconference? Which partners should we invite?
 
-Different types of decisions need a different process. It would be crazy to involve the whole team in decisions like which type of whiteboard pens to buy. And it would be crazy to NOT involve the whole team if we needed to move our office to a new location.
+Different types of decisions need a different process. It would be crazy to involve the whole team in decisions like which type of whiteboard pens to buy. And it would be crazy to not involve the whole team if we needed to move our office to a new location.
 
 So it’s not a good idea to have one single well-defined decision process for everything. And it’s not a good idea to try to list all potential decision types and create a well-defined process for each type, the list would be too long and complex, and there would be too many gray zones.
 
@@ -34,7 +34,7 @@ Instead, we follow these principles/guidelines:
 
 **Example:** If the board is considering to raise the team fee, the board drives that question, and therefore gets to pick the decision process.
 
-**Example:** If I want Crisp to collaborate with company X, then I’m the one driving that question and I pick the decision process.
+**Example:** If I want {{ site.company_name }} to collaborate with company X, then I’m the one driving that question and I pick the decision process.
 
 > **Meta:** So how did we decide on this decision-making process?
 > Henrik: "Well, we didn’t. I just noticed that people sometimes ask 'so how do we make decisions' and I started thinking about how it appeared to work, and wrote a wiki page describing it. Then I had a followup meeting to check if this is how we really work, and if this is how we want to continue working, and the answer was pretty much Yes on both counts."
@@ -62,19 +62,19 @@ Some things to consider when choosing a decisions process:
 -   **Is the decision reversible?** Most decisions are. What is the consequence of making the “wrong” decision, and who is affected by that?
 -   **How easy or hard is the decision?** How easy is it to reach consensus with all people affected?
 -   **How urgent is the decision?** What is the consequence of delaying the decision, or not making a decision at all?
--   **Who are you?** The decision process may vary depending on your perspective – consultant, board member, office admin, etc. May also depend on how long you’ve been at Crisp (if you are new and unsure you might need to seek more anchoring from people).
--   **Is the outcome affected by laws?** The board of directors in a Swedish company is bound by Swedish laws, so some decisions must be aligned with the board of directors.
+-   **Who are you?** The decision process may vary depending on your perspective – consultant, board member, office admin, etc. May also depend on how long you’ve been at {{ site.company_name }} (if you are new and unsure you might need to seek more anchoring from people).
+-   **Is the outcome affected by laws?** The board of directors in a {{ site.company_nationality }} company is bound by {{ site.company_nationality }} laws, so some decisions must be aligned with the board of directors.
 
 Sample decisions:
 
 -   “Should I arrange a free seminar with Lyssa Adkins” =&gt; **Own decision**. Just do it.
--   “Which color should we have on the Crisp cup?” =&gt; **Own decision with team input**.
--   “How often should we do Crisp unconferences?” =&gt; **Own decision with team anchoring**.
+-   “Which color should we have on the {{ site.company_name }} cup?” =&gt; **Own decision with team input**.
+-   “How often should we do {{ site.company_name }} unconferences?” =&gt; **Own decision with team anchoring**.
 -   “Should we divided the company into two business units?” =&gt; **Team decision**.
 
 At the end of the day it’s about balancing risk. If you make the decision yourself it will be fast, but you risk a backlash if others don’t support it. If you seek 100% consensus you may get a better decision with better support, but it could take time – especially for questions where people have opposing opinions.
 
-There is no perfect process, so seek a balance between these extremes! We most often end up in the middle of the scale – “own decision with team input” or “own decision with team anchoring” (where “team” isn’t necessarily the whole team)
+There is no perfect process, so seek a balance between these extremes! We most often end up in the middle of the scale – “own decision with team input” or “own decision with team anchoring” (where “team” isn’t necessarily the whole team).
 
 What if I still feel unsure of which decision process to use?
 -------------------------------------------------------------
@@ -82,8 +82,8 @@ What if I still feel unsure of which decision process to use?
 Here are some options:
 
 -   **Take a chance!** “Better to ask for forgiveness than permission”. Most decisions are reversible, so you don’t really need to be afraid of making the “wrong” decision or using the “wrong” decision process. Just accept feedback and learn.
--   **Talk to a Crisp colleague**, for example someone who has been around longer and can give examples of what has worked in the past.
--   **Check if someone else can drive** the question for you (or with you). Preferably someone who is strongly engaged in the question. For example if I want next Crisp unconference to be in the Maldives I’d involve the [office team](office-team.html), since they usually arrange our unconferences. It’s nice to pair-drive a decision, so you can always ask on the team mailing list to find a co-driver.
+-   **Talk to a {{ site.company_name }} colleague**, for example someone who has been around longer and can give examples of what has worked in the past.
+-   **Check if someone else can drive** the question for you (or with you). Preferably someone who is strongly engaged in the question. For example if I want next {{ site.company_name }} unconference to be in the Maldives I’d involve the [office team](office-team.html), since they usually arrange our unconferences. It’s nice to pair-drive a decision, so you can always ask on the team mailing list to find a co-driver.
 -   **Escalate the decision** to the [board of directors](board.html). For example “hey board, I want to change our recruiting process, how would we make a decision like that?”. We try to minimize the number of decisions that have to be made by the board, but they can give useful input about who needs to be involved.
 
 Our [unconferences](unconference.html) and similar gatherings are a great place to discuss a decision process – and in many cases make the actual decision as well, since everyone is there :)

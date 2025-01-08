@@ -10,6 +10,7 @@ collections:
 company_name: "DuoBit"
 company_member: "DuoBiter"
 company_members: "DuoBiters"
+company_nationality: "Polish"
 # TODO Use LinkedIn company page once it's ready
 company_website: https://github.com/duobitx
 # TODO Configure Google Analytics or any other tracking mechanism
