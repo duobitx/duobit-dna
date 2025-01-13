@@ -10,7 +10,7 @@ This site is an [open-source](http://en.wikipedia.org/wiki/Open_source) site des
 
 [{{ site.company_name }}]({{ site.company_website }}) is a consulting company based in Warsaw, Poland. But we aren't a very typical consulting company. For example:
 
--   None of the ~10 consultants are actually employed by {{ site.company_name }}.
+-   None of the consultants are actually employed by {{ site.company_name }}.
 -   We have no managers, not even a CEO. Instead we rely on self-organization and transparency. Almost everything is bottom-up, and [anyone can drive any decision](decisions.html).
 -   {{ site.company_name }}'s main purpose is to enable consultants to be happy, and [{{ site.company_name }} Happiness Index](happiness-index.html) is our driving metric. Strong revenue and delighted customers are a side effect, not a goal.
 -   {{ site.company_name }} doesn't want to earn money from it's consultants. It is in practice a non-profit company (although not formally so). Consultants [keep most of what they earn](economic-model.html).
